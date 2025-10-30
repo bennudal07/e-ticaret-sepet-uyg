@@ -35,4 +35,35 @@ Ayrıca proje nesneye yönelik programlama kavramlarından, soyutlama, kapsülle
 - **Çok Biçimlilik:**  
   Her alt sınıf `bilgiGoster()` metodunu kendi türüne uygun biçimde yeniden yazar.
 
+  ## Örnek Çalışma
+
+--- Ürün Listesi ---
+
+Elektronik Ürün: Laptop | Fiyat: 25000₺ | Garanti: 2 yıl
+
+Giyim Ürünü: Tişört | Fiyat: 250₺
+...
+
+Sepete eklemek istediğiniz ürün numarasını girin: 2
+Beden seçin (S / M / L / XL): M
+Tişört sepete eklendi!
+
+Sepetiniz:
+Giyim Ürünü: Tişört | Fiyat: 250₺ | Beden: M
+Toplam Tutar: 250₺
+
+  ## Kullanılan Teknolojiler
+
+- **Java** (JDK 8 veya üzeri)  
+- **OOP (Nesne Yönelimli Programlama)** prensipleri  
+- **ArrayList** (dinamik veri tutma yapısı)  
+- **Scanner** (kullanıcıdan veri girişi)
+
+  ## Çalıştırma
+
+1. Proje dosyalarını indir veya klonla.
+2. Kodu derle ve çalıştır.
+
+  
+
   
